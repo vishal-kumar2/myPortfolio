@@ -1,7 +1,7 @@
 // src/data/skillsData.js
 import react from '../assets/react.png'
 import node from '../assets/node.png'
-import tailwind from '../assets/tailwind CSS.png'
+import tailwind from '../assets/tailwindCSS.png'
 import mongoDB from '../assets/MongoDB.png'
 import python from '../assets/Python.png'
 import java from '../assets/Java.png'
@@ -10,7 +10,7 @@ import aws from '../assets/AWS.png'
 import javascript from '../assets/JavaScript.png'
 import sql from '../assets/MySQL.png'
 import express from '../assets/Express.png'
-import vscode from '../assets/VS code.png'
+import vscode from '../assets/VScode.png'
 import anaconda from '../assets/Anaconda.png'
 
 
